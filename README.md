@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Unity 3D FPS Game Development and Website Development. 
 - 📫 You Can reach me by send me an email jialecjl2016@outlook.com 
+- Btw, I'm New To GitHub and waiting Someone to be My Mentor 
 
 <!---
 JIaLeChye/JIaLeChye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
