@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, HTML, JavaScript, CSS, 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Website Development. 
-- 📫 You Can reach me by send me an email jialecjl2016@outlook.com 
+- 📫 You Can reach me by send me an <a href="mailto:jialecjl2016@outlook.com"> email </a> 
 - Btw, I'm New To GitHub and waiting Someone to be My Mentor 
 
 <!---
