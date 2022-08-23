@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Website Development. 
 - 📫 You Can reach me by send me an <a href="mailto:jialecjl2016@outlook.com"> email </a> 
-- Btw, I'm New To GitHub and waiting Someone to be My Mentor 
+- This <a href="https://jialechye.github.io/JLCTech/" target="_blank">Link</a> lets you acces to my Personal Gitbuh Pages
+- Btw, I'm New To GitHub and waiting Someone to be My Sifu 
 
 <!---
 JIaLeChye/JIaLeChye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
