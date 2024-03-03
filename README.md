@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Website Development. 
 - 📫 You Can reach me by send me an <a href="mailto:jialecjl2016@outlook.com"> email </a> 
 - This <a href="https://jialechye.github.io/JLCTech/" target="_blank">Link</a> lets you access to my Personal Github Pages
-- Btw, I'm New To GitHub and waiting for Someone to be My Sifu 
+
 
 <!---
 JIaLeChye/JIaLeChye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
